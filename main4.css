@@ -1,11 +1,15 @@
 .yellow{
 	background-color: orange;
-	display:inline-block; 
+	display:inline-block; 	
+	margin-right: 20px;
+	margin-top: 0;
 }
 .grey{
 	background-color: grey;
 	display: inline-block;
-	margin:20px;
+	margin-right: 20px;
+	margin-top: 0;
+
 }
 
 h4{
@@ -15,4 +19,7 @@ h4{
 
 .white{
 	color:white;
+}
+body{
+	margin-top: 0;
 }
